@@ -34,7 +34,7 @@ body {
 
 .previousDisplay, .currentDisplay {
    padding: .3em;
-   min-height: 1.6em;
+   min-height: 1.8em;
    overflow-wrap: break-word; 
 }
 
